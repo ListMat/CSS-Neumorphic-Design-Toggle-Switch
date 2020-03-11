@@ -22,7 +22,7 @@
   
  [//]: # (Add your gifs/images here:)
 <div>
-  <img src=https://imgflip.com/gif/3s5m0b" alt="demo" height="300">
+  <img src=<div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:45%;position:relative;"><iframe width="500" height="225" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3s5m0b"></iframe></div><p><a href="https://imgflip.com/gif/3s5m0b">via Imgflip</a></p></div>" alt="demo" height="300">
 </div>
 
 <hr />
