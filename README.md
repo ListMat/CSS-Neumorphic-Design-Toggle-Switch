@@ -22,7 +22,7 @@
   
  [//]: # (Add your gifs/images here:)
 <div>
- <img src = "https://imgflip.com/gif/3s5m0b">
+ <img src="https://media.giphy.com/media/f6tQOmhtggv6z2Gix4/giphy.gif" alt="demo" height="300">
 
 <hr />
   </a>
